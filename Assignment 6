@@ -1,3 +1,8 @@
+M.Sai Vindhya
+roll no:-321910304012
+
+
+
 #Convert Binary number to decimal
 b_num=list(input("Input a binary number: "))
 value = 0
